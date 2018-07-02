@@ -1,0 +1,890 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16febb2a-c8d9-4608-9f0c-9b607982d3c1" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/final_biyesheji$guoji.coverage" NAME="guoji Coverage Results" MODIFIED="1526618648566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flask_web" />
+    <SUITE FILE_PATH="coverage/final_biyesheji$recommend.coverage" NAME="recommend Coverage Results" MODIFIED="1526735952626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/index_recommend" />
+    <SUITE FILE_PATH="coverage/final_biyesheji$search_rank.coverage" NAME="search_rank Coverage Results" MODIFIED="1526798610387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flask_two_web" />
+    <SUITE FILE_PATH="coverage/final_biyesheji$keji.coverage" NAME="keji Coverage Results" MODIFIED="1526618650677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flask_web" />
+    <SUITE FILE_PATH="coverage/final_biyesheji$app.coverage" NAME="app Coverage Results" MODIFIED="1526803277679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flask_web" />
+    <SUITE FILE_PATH="coverage/final_biyesheji$app__1_.coverage" NAME="app (1) Coverage Results" MODIFIED="1526697297998" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flask_two_web" />
+    <SUITE FILE_PATH="coverage/final_biyesheji$news_souhu_spider.coverage" NAME="news_souhu_spider Coverage Results" MODIFIED="1526733815063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl" />
+    <SUITE FILE_PATH="coverage/final_biyesheji$index.coverage" NAME="index Coverage Results" MODIFIED="1526735886601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/index_recommend" />
+    <SUITE FILE_PATH="coverage/final_biyesheji$main.coverage" NAME="main Coverage Results" MODIFIED="1527328264379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flask_two_web" />
+    <SUITE FILE_PATH="coverage/final_biyesheji$tes.coverage" NAME="tes Coverage Results" MODIFIED="1526964825644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flask_two_web" />
+    <SUITE FILE_PATH="coverage/final_biyesheji$tesit.coverage" NAME="tesit Coverage Results" MODIFIED="1526564887439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl" />
+    <SUITE FILE_PATH="coverage/final_biyesheji$news_shanxi_spider.coverage" NAME="news_shanxi_spider Coverage Results" MODIFIED="1526729058156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl" />
+    <SUITE FILE_PATH="coverage/final_biyesheji$server.coverage" NAME="server Coverage Results" MODIFIED="1526618652942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/flask_web" />
+    <SUITE FILE_PATH="coverage/final_biyesheji$news_toutiao_spider.coverage" NAME="news_toutiao_spider Coverage Results" MODIFIED="1526734642125" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/crawl" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="final_biyesheji" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/flask_two_web/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="157" column="39" lean-forward="true" selection-start-line="157" selection-start-column="39" selection-end-line="157" selection-end-column="39" />
+              <folding>
+                <element signature="e#20#69#0" expanded="true" />
+                <marker date="1527327642668" expanded="true" signature="2736:2769" ph="select usern... users" />
+                <marker date="1527327642668" expanded="true" signature="5295:5339" ph="select key_c... missing_value" />
+                <marker date="1527327642668" expanded="true" signature="5531:5571" ph="insert into missing_value" />
+                <marker date="1527327642668" expanded="true" signature="5713:5761" ph="update missing_value... " />
+                <marker date="1527327642668" expanded="true" signature="7187:7255" ph="select id, u... news_table" />
+                <marker date="1527327642668" expanded="true" signature="7755:7797" ph="select title... news_table" />
+                <marker date="1527327642668" expanded="true" signature="9499:9541" ph="select id_co... missing_value" />
+                <marker date="1527327642668" expanded="true" signature="9716:9756" ph="insert into missing_value" />
+                <marker date="1527327642668" expanded="true" signature="9885:9931" ph="update missing_value... " />
+                <marker date="1527327642668" expanded="true" signature="10916:10984" ph="select id fr... news_table" />
+                <marker date="1527327642668" expanded="true" signature="11077:11119" ph="select count... news_table" />
+                <marker date="1527327642668" expanded="true" signature="11077:11123" ph="select count... news_table" />
+                <marker date="1527327642668" expanded="true" signature="11965:11988" ph="select key_w... " />
+                <marker date="1527327642668" expanded="true" signature="11965:11989" ph="select key_w... %s" />
+                <marker date="1527327642668" expanded="true" signature="11965:11998" ph="select key_w... %s" />
+                <marker date="1527327642668" expanded="true" signature="11965:11999" ph="select key_w... %s" />
+                <marker date="1527327642668" expanded="true" signature="11965:12008" ph="select key_w... %s" />
+                <marker date="1527327642668" expanded="true" signature="12129:12150" ph="select count... missing_value" />
+                <marker date="1527327642668" expanded="true" signature="12129:12152" ph="select count... %s" />
+                <marker date="1527327642668" expanded="true" signature="12283:12323" ph="select user_... %s" />
+                <marker date="1527327642668" expanded="true" signature="12443:12464" ph="select count... missing_value" />
+                <marker date="1527327642668" expanded="true" signature="12443:12466" ph="select count... %s" />
+                <marker date="1527327642668" expanded="true" signature="13285:13297" ph="insert into beha_recom_in... " />
+                <marker date="1527327642668" expanded="true" signature="13285:13318" ph="insert into %s... " />
+                <marker date="1527327642668" expanded="true" signature="13611:13644" ph="insert into missing_value... " />
+                <marker date="1527327642668" expanded="true" signature="14075:14108" ph="insert into missing_value... " />
+                <marker date="1527327642668" expanded="true" signature="14269:14289" ph="select news_... missing_value" />
+                <marker date="1527327642668" expanded="true" signature="14269:14291" ph="select news_... %s" />
+                <marker date="1527327642668" expanded="true" signature="14793:14862" ph="select date_... news_table" />
+                <marker date="1527327642668" expanded="true" signature="15844:15903" ph="select id fr... news_table" />
+                <marker date="1527327642668" expanded="true" signature="15844:15908" ph="select id fr... news_table" />
+                <marker date="1527327642668" expanded="true" signature="16044:16086" ph="insert into recom_table... " />
+                <marker date="1527327642668" expanded="true" signature="16183:16215" ph="select newyt... recom_table" />
+                <marker date="1527327642668" expanded="true" signature="16183:16231" ph="select newyt... recom_table" />
+                <marker date="1527327642668" expanded="true" signature="16480:16506" ph="select usern... users" />
+                <marker date="1527327642668" expanded="true" signature="16775:16858" ph="select TABLE... tables" />
+                <marker date="1527327642668" expanded="true" signature="17182:17311" ph="create table... missing_value" />
+                <marker date="1527327642668" expanded="true" signature="17396:17524" ph="create table... missing_value" />
+                <marker date="1527327642668" expanded="true" signature="17622:17718" ph="create table... missing_value" />
+                <marker date="1527327642668" expanded="true" signature="17937:17970" ph="SELECT * FRO... knearest" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="high_search.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flask_two_web/templates/high_search.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="content.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flask_two_web/templates/content.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="behavi_hell.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flask_two_web/templates/behavi_hell.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="30" column="28" lean-forward="false" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flask_two_web/templates/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="kind_recom.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flask_two_web/templates/kind_recom.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flask_two_web/templates/login.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+              <folding>
+                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="signup.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flask_two_web/templates/signup.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="search.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/flask_two_web/templates/search.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1404">
+              <caret line="78" column="27" lean-forward="false" selection-start-line="78" selection-start-column="27" selection-end-line="78" selection-end-column="27" />
+              <folding>
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#217#223#0" expanded="true" />
+                <element signature="e#223#229#0" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>index</find>
+      <find>sim_mend</find>
+      <find>search</find>
+      <find>doc_id</find>
+      <find>find</find>
+      <find>docs</find>
+      <find>wojiushiwoeeiieieieie</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/news_wangyi_spider.py" />
+        <option value="$PROJECT_DIR$/new_qq_spider.py" />
+        <option value="$PROJECT_DIR$/news_souhu_spider.py" />
+        <option value="$PROJECT_DIR$/news_toutiao_spider.py" />
+        <option value="$PROJECT_DIR$/news_shanxi_spider.py" />
+        <option value="$PROJECT_DIR$/../fuben/code/index_module.py" />
+        <option value="$PROJECT_DIR$/tesit.py" />
+        <option value="$PROJECT_DIR$/config.ini" />
+        <option value="$PROJECT_DIR$/flask_two_web/rank.py" />
+        <option value="$PROJECT_DIR$/flask_two_web/__init__.py" />
+        <option value="$PROJECT_DIR$/flask_web/templates/coniet.html" />
+        <option value="$PROJECT_DIR$/flask_two_web/templates/content.html" />
+        <option value="$PROJECT_DIR$/flask_web/templates/hello.html" />
+        <option value="$PROJECT_DIR$/flask_web/keji.py" />
+        <option value="$PROJECT_DIR$/flask_web/guoji.py" />
+        <option value="$PROJECT_DIR$/flask_web/server.py" />
+        <option value="$PROJECT_DIR$/flask_two_web/app.py" />
+        <option value="$PROJECT_DIR$/index_recommend/index.py" />
+        <option value="$PROJECT_DIR$/crawl/news_shanxi_spider.py" />
+        <option value="$PROJECT_DIR$/crawl/news_souhu_spider.py" />
+        <option value="$PROJECT_DIR$/crawl/news_toutiao_spider.py" />
+        <option value="$PROJECT_DIR$/crawl/tesit.py" />
+        <option value="$PROJECT_DIR$/flask_two_web/templates/behavi_hell.py.html" />
+        <option value="$PROJECT_DIR$/flask_two_web/templates/behavior_recom.html" />
+        <option value="$PROJECT_DIR$/flask_two_web/static/css/style.css" />
+        <option value="$PROJECT_DIR$/flask_web/app.py" />
+        <option value="$PROJECT_DIR$/flask_two_web/templates/kind_recom.html" />
+        <option value="$PROJECT_DIR$/flask_two_web/templates/behavi_hell.html" />
+        <option value="$PROJECT_DIR$/flask_two_web/search_rank.py" />
+        <option value="$PROJECT_DIR$/flask_two_web/templates/search.html" />
+        <option value="$PROJECT_DIR$/flask_two_web/tes.py" />
+        <option value="$PROJECT_DIR$/index_recommend/recommend.py" />
+        <option value="$PROJECT_DIR$/flask_two_web/templates/signup.html" />
+        <option value="$PROJECT_DIR$/flask_two_web/templates/login.html" />
+        <option value="$PROJECT_DIR$/flask_two_web/templates/index.html" />
+        <option value="$PROJECT_DIR$/flask_two_web/main.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="28" />
+    <option name="y" value="63" />
+    <option name="width" value="1301" />
+    <option name="height" value="748" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="final_biyesheji" type="b2602c69:ProjectViewProjectNode" />
+              <item name="final_biyesheji" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="final_biyesheji" type="b2602c69:ProjectViewProjectNode" />
+              <item name="final_biyesheji" type="462c0819:PsiDirectoryNode" />
+              <item name="crawl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="final_biyesheji" type="b2602c69:ProjectViewProjectNode" />
+              <item name="final_biyesheji" type="462c0819:PsiDirectoryNode" />
+              <item name="flask_two_web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="final_biyesheji" type="b2602c69:ProjectViewProjectNode" />
+              <item name="final_biyesheji" type="462c0819:PsiDirectoryNode" />
+              <item name="flask_two_web" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="final_biyesheji" type="b2602c69:ProjectViewProjectNode" />
+              <item name="final_biyesheji" type="462c0819:PsiDirectoryNode" />
+              <item name="index_recommend" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/crawl" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/flask_two_web" />
+      <recent name="$PROJECT_DIR$/flask_two_web/templates" />
+      <recent name="$PROJECT_DIR$/index_recommend" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/flask_web" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask_web" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="final_biyesheji" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask_web/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask_two_web" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="final_biyesheji" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask_two_web/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="recommend" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/index_recommend" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="final_biyesheji" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/index_recommend/recommend.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="search_rank" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask_two_web" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="final_biyesheji" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask_two_web/search_rank.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="tes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask_two_web" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="final_biyesheji" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask_two_web/tes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.recommend" />
+      <item index="1" class="java.lang.String" itemvalue="Python.main" />
+      <item index="2" class="java.lang.String" itemvalue="Python.search_rank" />
+      <item index="3" class="java.lang.String" itemvalue="Python.app" />
+      <item index="4" class="java.lang.String" itemvalue="Python.tes" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.main" />
+        <item index="1" class="java.lang.String" itemvalue="Python.tes" />
+        <item index="2" class="java.lang.String" itemvalue="Python.app" />
+        <item index="3" class="java.lang.String" itemvalue="Python.search_rank" />
+        <item index="4" class="java.lang.String" itemvalue="Python.recommend" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16febb2a-c8d9-4608-9f0c-9b607982d3c1" name="Default" comment="" />
+      <created>1526523791371</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1526523791371</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32713178" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37209302" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="1.0" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.089393936" sideWeight="0.492569" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="R Packages" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="R Graphics" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32954547" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17424242" sideWeight="0.507431" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.61912477" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../mode1/code/spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1026">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fuben/code/spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360">
+          <caret line="14" column="29" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="76" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl/ghostdriver.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state relative-caret-position="108">
+          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fuben/code/index_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="9" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index_recommend/stop_words.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fuben/code/recommendation_module.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="18" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="185" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../fuben/web/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="29" column="9" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="157" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_two_web/rank.py" />
+    <entry file="file://$PROJECT_DIR$/../fuben/web/search_engine.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="21" lean-forward="false" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_web/templates/content.html" />
+    <entry file="file://$PROJECT_DIR$/../mode1/web/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="12" column="58" lean-forward="false" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../mode1/web/templates/hello.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_two_web/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_web/keji.py" />
+    <entry file="file://$PROJECT_DIR$/flask_web/server.py" />
+    <entry file="file://$PROJECT_DIR$/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_web/guoji.py" />
+    <entry file="file://$PROJECT_DIR$/index_recommend/idf.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl/tesit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="31" column="11" lean-forward="true" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_web/templates/coniet.html" />
+    <entry file="file://$PROJECT_DIR$/flask_two_web/templates/behavi_hell.py.html" />
+    <entry file="file://$PROJECT_DIR$/flask_two_web/templates/behavior_recom.html" />
+    <entry file="file://$PROJECT_DIR$/flask_two_web/static/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_two_web/static/imgs/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_two_web/static/imgs/readme.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_two_web/static/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_web/templates/hello.html" />
+    <entry file="file://$PROJECT_DIR$/flask_web/app.py" />
+    <entry file="file://$PROJECT_DIR$/crawl/news_souhu_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="62" column="18" lean-forward="false" selection-start-line="62" selection-start-column="18" selection-end-line="62" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_two_web/app.py" />
+    <entry file="file:///usr/lib/python3.5/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="162" column="0" lean-forward="false" selection-start-line="162" selection-start-column="0" selection-end-line="162" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_two_web/tes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_two_web/search_rank.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="882">
+          <caret line="54" column="7" lean-forward="false" selection-start-line="54" selection-start-column="7" selection-end-line="54" selection-end-column="7" />
+          <folding>
+            <marker date="1526917691502" expanded="true" signature="1663:1698" ph="SELECT * FRO... postings" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../github/flasklogintemplate-master/tesie.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="11" lean-forward="false" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+          <folding>
+            <marker date="1526915641327" expanded="true" signature="173:227" ph="select id, u... news_table" />
+            <marker date="1526915641327" expanded="true" signature="500:554" ph="select id, u... news_table" />
+            <marker date="1526915641327" expanded="true" signature="603:634" ph="select count... news_table" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl/news_shanxi_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1224">
+          <caret line="71" column="17" lean-forward="false" selection-start-line="71" selection-start-column="17" selection-end-line="71" selection-end-column="17" />
+          <folding>
+            <marker date="1526729058078" expanded="true" signature="2158:2221" ph="insert into news_table... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawl/news_toutiao_spider.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding>
+            <marker date="1526734642057" expanded="true" signature="2254:2319" ph="insert into news_table... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index_recommend/recommend.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1026">
+          <caret line="57" column="19" lean-forward="false" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+          <folding>
+            <element signature="e#25#37#0" expanded="true" />
+            <marker date="1526728460172" expanded="true" signature="1277:1306" ph="DROP TABLE I... " />
+            <marker date="1526728460172" expanded="true" signature="1332:1497" ph="CREATE TABLE... knearest" />
+            <marker date="1526728460172" expanded="true" signature="1572:1618" ph="INSERT INTO knearest... " />
+            <marker date="1526728460172" expanded="true" signature="2190:2226" ph="select title... news_table" />
+            <marker date="1526728460172" expanded="true" signature="2300:2331" ph="select count... news_table" />
+            <marker date="1526728460172" expanded="true" signature="4649:4682" ph="select title... news_table" />
+            <marker date="1526728460172" expanded="true" signature="4756:4787" ph="select count... news_table" />
+            <marker date="1526728460172" expanded="true" signature="5872:5903" ph="select count... news_table" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index_recommend/index.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="86" column="30" lean-forward="false" selection-start-line="86" selection-start-column="30" selection-end-line="86" selection-end-column="30" />
+          <folding>
+            <marker date="1526728460112" expanded="true" signature="1797:1826" ph="DROP TABLE I... " />
+            <marker date="1526728460112" expanded="true" signature="1852:1941" ph="CREATE TABLE... postings" />
+            <marker date="1526728460112" expanded="true" signature="2120:2157" ph="INSERT INTO postings... " />
+            <marker date="1526728460112" expanded="true" signature="2535:2581" ph="select id,da... news_table" />
+            <marker date="1526728460112" expanded="true" signature="2654:2685" ph="select count... news_table" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_two_web/templates/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="8" lean-forward="false" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_two_web/templates/_render_elements.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="33" lean-forward="true" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#1;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_two_web/templates/next.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_two_web/templates/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="7" lean-forward="false" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_two_web/templates/kind_recom.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="32" lean-forward="false" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_two_web/templates/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_two_web/templates/high_search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_two_web/templates/content.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_two_web/templates/behavi_hell.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="28" lean-forward="false" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_two_web/templates/signup.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_two_web/templates/search.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1404">
+          <caret line="78" column="27" lean-forward="false" selection-start-line="78" selection-start-column="27" selection-end-line="78" selection-end-column="27" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#217#223#0" expanded="true" />
+            <element signature="e#223#229#0" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Cthird/shanvenv/lib/python3.5/site-packages/wtforms/validators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="522" column="63" lean-forward="true" selection-start-line="522" selection-start-column="63" selection-end-line="522" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#39#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/flask_two_web/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="157" column="39" lean-forward="true" selection-start-line="157" selection-start-column="39" selection-end-line="157" selection-end-column="39" />
+          <folding>
+            <element signature="e#20#69#0" expanded="true" />
+            <marker date="1527327642668" expanded="true" signature="2736:2769" ph="select usern... users" />
+            <marker date="1527327642668" expanded="true" signature="5295:5339" ph="select key_c... missing_value" />
+            <marker date="1527327642668" expanded="true" signature="5531:5571" ph="insert into missing_value" />
+            <marker date="1527327642668" expanded="true" signature="5713:5761" ph="update missing_value... " />
+            <marker date="1527327642668" expanded="true" signature="7187:7255" ph="select id, u... news_table" />
+            <marker date="1527327642668" expanded="true" signature="7755:7797" ph="select title... news_table" />
+            <marker date="1527327642668" expanded="true" signature="9499:9541" ph="select id_co... missing_value" />
+            <marker date="1527327642668" expanded="true" signature="9716:9756" ph="insert into missing_value" />
+            <marker date="1527327642668" expanded="true" signature="9885:9931" ph="update missing_value... " />
+            <marker date="1527327642668" expanded="true" signature="10916:10984" ph="select id fr... news_table" />
+            <marker date="1527327642668" expanded="true" signature="11077:11119" ph="select count... news_table" />
+            <marker date="1527327642668" expanded="true" signature="11077:11123" ph="select count... news_table" />
+            <marker date="1527327642668" expanded="true" signature="11965:11988" ph="select key_w... " />
+            <marker date="1527327642668" expanded="true" signature="11965:11989" ph="select key_w... %s" />
+            <marker date="1527327642668" expanded="true" signature="11965:11998" ph="select key_w... %s" />
+            <marker date="1527327642668" expanded="true" signature="11965:11999" ph="select key_w... %s" />
+            <marker date="1527327642668" expanded="true" signature="11965:12008" ph="select key_w... %s" />
+            <marker date="1527327642668" expanded="true" signature="12129:12150" ph="select count... missing_value" />
+            <marker date="1527327642668" expanded="true" signature="12129:12152" ph="select count... %s" />
+            <marker date="1527327642668" expanded="true" signature="12283:12323" ph="select user_... %s" />
+            <marker date="1527327642668" expanded="true" signature="12443:12464" ph="select count... missing_value" />
+            <marker date="1527327642668" expanded="true" signature="12443:12466" ph="select count... %s" />
+            <marker date="1527327642668" expanded="true" signature="13285:13297" ph="insert into beha_recom_in... " />
+            <marker date="1527327642668" expanded="true" signature="13285:13318" ph="insert into %s... " />
+            <marker date="1527327642668" expanded="true" signature="13611:13644" ph="insert into missing_value... " />
+            <marker date="1527327642668" expanded="true" signature="14075:14108" ph="insert into missing_value... " />
+            <marker date="1527327642668" expanded="true" signature="14269:14289" ph="select news_... missing_value" />
+            <marker date="1527327642668" expanded="true" signature="14269:14291" ph="select news_... %s" />
+            <marker date="1527327642668" expanded="true" signature="14793:14862" ph="select date_... news_table" />
+            <marker date="1527327642668" expanded="true" signature="15844:15903" ph="select id fr... news_table" />
+            <marker date="1527327642668" expanded="true" signature="15844:15908" ph="select id fr... news_table" />
+            <marker date="1527327642668" expanded="true" signature="16044:16086" ph="insert into recom_table... " />
+            <marker date="1527327642668" expanded="true" signature="16183:16215" ph="select newyt... recom_table" />
+            <marker date="1527327642668" expanded="true" signature="16183:16231" ph="select newyt... recom_table" />
+            <marker date="1527327642668" expanded="true" signature="16480:16506" ph="select usern... users" />
+            <marker date="1527327642668" expanded="true" signature="16775:16858" ph="select TABLE... tables" />
+            <marker date="1527327642668" expanded="true" signature="17182:17311" ph="create table... missing_value" />
+            <marker date="1527327642668" expanded="true" signature="17396:17524" ph="create table... missing_value" />
+            <marker date="1527327642668" expanded="true" signature="17622:17718" ph="create table... missing_value" />
+            <marker date="1527327642668" expanded="true" signature="17937:17970" ph="SELECT * FRO... knearest" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

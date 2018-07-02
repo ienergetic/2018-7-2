@@ -1,0 +1,1 @@
+console.log('Hello, I am ready to receive new orders.');

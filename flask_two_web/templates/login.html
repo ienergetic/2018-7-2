@@ -1,0 +1,29 @@
+
+{% from "_render_elements.html" import render_field %}
+
+{% block content %}
+<div>
+    <div align="center">
+        {% if get_flashed_messages()  %}
+        <ul>
+        {% for message in get_flashed_messages() %}
+        <li style="color:blue;">{{ message }}</li>
+        {% endfor %}
+        </ul>
+        {% endif %}
+
+    </div>
+<div align="center">
+    <h1>登录</h1>
+    <form method="post" action="{{ url_for('login') }}">
+    {{ form.csrf_token }}
+    {{ render_field(form.username) }}
+    {{ render_field(form.password) }}
+    <p>{{ form.remember }} {{ form.remember.label }}</p>
+    {{ form.submit }}
+    <a href="/denglu/signup">未注册吗? 免费注册</a>
+    </form>
+
+</div>
+</div>
+{% endblock %}

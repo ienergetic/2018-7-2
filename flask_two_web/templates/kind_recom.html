@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{tags}}</title>
+</head>
+<body>
+    <div id="shili">
+          <div>
+              <div style="float:left">
+                      <h2>{{tags}}</h2>
+              </div>
+              <div id="lianjiyue" style="float:right">
+                  <a  href="/kind/{{'山西'}}/" >山西</a>
+                  <a  href="/kind/{{'科技'}}/" >科技</a>
+                  <a  href="/kind/{{'国际'}}/" >国际</a>
+                  <a  href="/kind/{{'体育'}}/" >体育</a>
+                  <a  href="/kind/{{'军事'}}/" >军事</a>
+                  <a  href="/kind/{{'旅游'}}/" >旅游</a>
+                  <a  href="/kind/{{'财经'}}/" >财经</a>
+                  {% if  hast %}
+                      <a href="/denglu/logout">退出登录</a>
+                  {% else %}
+                      <a href="/denglu/login">登录</a>
+                  {% endif %}
+              </div>
+          </div>
+        <br/>
+        <div id="headler" align="right">
+            <form name="search" action="/search/" method="POST">
+                <p>
+                    {% if key %}
+                        <input type="text"   name="key_word" value="{{key}}">
+                    {% else %}
+                        <input type="text"   name="key_word">
+                    {% endif %}
+                    <input type="submit"    value="搜索">
+                </p>
+            </form>
+        </div>
+
+        <br/>
+        <div>
+        {% for doc in docs%}
+            <div id="doc">
+                <ul id="navigation">
+                    <p><big><a href="/search/{{doc['id']}}/" target="_blank">{{doc['title']}}</a></big></p>
+                    <p>{{doc['time']}}<br/>{{doc['snippet']}}<br/><a href="{{ doc['url']}}" target="_blank">{{doc['url']}}</a>
+                    </p>
+                </ul>
+            </div>
+            <br/>
+        {% endfor %}
+        </div>
+    </div>
+</body>
+</html>

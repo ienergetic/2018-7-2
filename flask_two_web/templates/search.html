@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>新闻推荐系统</title>
+</head>
+<body>
+    <div id="container">
+        <div>
+            <div style="float:left">
+                {%if hast %}
+                    <h2>welcome&nbsp;&nbsp;{{current_user.username}}!</h2>
+                {% else %}
+                    <h2>新闻推荐系统</h2>
+                {% endif %}
+            </div>
+            <div id="lianjie" style="float:right">
+                <a  href="/kind/{{'山西'}}/" >山西</a>
+                <a  href="/kind/{{'科技'}}/" >科技</a>
+                <a  href="/kind/{{'国际'}}/" >国际</a>
+                <a  href="/kind/{{'体育'}}/" >体育</a>
+                <a  href="/kind/{{'军事'}}/" >军事</a>
+                <a  href="/kind/{{'旅游'}}/" >旅游</a>
+                <a  href="/kind/{{'财经'}}/" >财经</a>
+                {% if  hast %}
+                    <a href="/denglu/logout">退出登录</a>
+                {% else %}
+                    <a href="/denglu/login">登录</a>
+                {% endif %}
+            </div>
+        </div>
+        <br/>
+            <div id="header" align="right">
+                <form name="search" action="/search/" method="POST">
+                    <p>
+                        {% if key %}
+                            <input type="text"  name="key_word" value="{{key}}">
+                        {% else %}
+                            <input type="text"  name="key_word">
+                        {% endif %}
+                        <input type="submit"   value="搜索">
+                    </p>
+                </form>
+            </div>
+        <br/>
+        <hr/>
+        {% block high_search%}
+        {% endblock %}
+        {% if error%}
+            {% for doc in docs%}
+            <div id="doc">
+                <ul id="navigation">
+                    <p><big><a href="/search/{{doc.id}}/" target="_blank">{{doc.title}}</a></big></p>
+                    <p>{{doc.time}}<br/>{{doc.snippet}}<br/>
+                    <a href="{{ doc.url }}" target="_blank">{{doc.url}}</a>
+                    </p>
+                </ul>
+            </div>
+            <br/>
+            {% endfor %}
+        {% block next %}
+        <ul>
+            {% for i in page %}
+                <a href="/search/page/{{i}}/">{{i}}</a>&nbsp;
+            {% endfor %}
+        </ul>
+        {% endblock %}
+        {% else %}
+            {% if not hast %}
+                <p>推荐以下内容, 登录后推荐更多</p>
+                {% for reco_doc in reco_docs %}
+                    <div id="doc_reco">
+                        <ul id="nav_reco">
+                            <p><big><a href="/search/{{reco_doc['id']}}/" target="_blank">{{reco_doc['title']}}</a></big></p>
+                            <p>{{reco_doc['time']}}<br/>{{reco_doc['snippet']}}<br/><a href="{{reco_doc['url']}}" target="_blank">{{reco_doc['url']}}</a>
+                            </p>
+                        </ul>
+                    </div>
+                    <br/>
+                {% endfor %}
+            {% else %}
+                <p> {{current_user.username}}</p>
+            {% endif %}
+
+        <br/>
+        {% endif %}
+		
+		<div id="footer">
+			<hr>
+            &copy; 2018 <a href="https://www.baidu.com/" target="_blank">百度</a>
+        </div>
+		
+    </div>
+</body>
+</html>
